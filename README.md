@@ -15,7 +15,8 @@ Maria has gotten a new version of the student data with several changes. This in
 * DataSource: new_full_student_data.csv 
 
 ### The Code
-A link to the code can be found [here] (https://github.com/jkehm/School_District_Analysis/blob/main/Starter_Code/Unsolved/Student_Data_Challenge_Starter_Code.ipynb)
+A link to the code can be found below:
+https://github.com/jkehm/School_District_Analysis/blob/main/Starter_Code/Unsolved/Student_Data_Challenge_Starter_Code.ipynb
 
 ### Results
 The main discovery that I made is that, despite having a lower budget (seen in delivery 5.1), the charter schools have better grades in math on average. If I was the schoolboard, I would look at what the charter schools are doing differently than the public schools. From there the budgets could be used more effiecently, and give the students a greater chance of success. 
